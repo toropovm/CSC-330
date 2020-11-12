@@ -1,0 +1,9 @@
+PLEASE INPUT TEMPERATURE IN FAHRENHEIT
+
+80
+Your temperature in Fahrenheit is: 80.0
+
+Your temperature in Celsius is: 26.666666666666668
+
+Your temperature in Kelvin is: 299.6666666666667
+
