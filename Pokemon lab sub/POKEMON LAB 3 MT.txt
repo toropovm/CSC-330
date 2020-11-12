@@ -1,0 +1,117 @@
+
+///MYKOLA TOROPOV LAB 4 POKEMON LAB
+///SIMULATION 1
+
+Pokemon Battle Simulator!!!
+
+You're being attacked by a Pokemon master controlling a Squirtle!
+Battle Begins, Ash you control Pikachu get ready for a fight!
+
+Your Pokemons health is 130
+
+Pika, Pika
+Take an action
+[1]Attack!
+[2]Use Item!
+[3]Flee the fight!
+1
+Please select your attack.
+
+[1] Electricute Attack Cost 1 PP
+[2] Shock Attack Cost 2 PP
+[3] Thunderbolt Attack Cost 5 PP
+1
+Super effective attack
+
+Pikachu used Shock it did 24 damage.
+
+You have 13 Power Points left.
+Squirtle has 126 health left.
+
+Squirtle goes.
+
+Regular attack
+
+Squirtle used Tail Whip it did 16 damage.
+
+You have 15 Power Points left.
+Your Pokemons health is 114
+
+Pika, Pika
+Take an action
+[1]Attack!
+[2]Use Item!
+[3]Flee the fight!
+2
+Health Potion used, health increased by 30 to :  144
+ You have 1 Health potions left!
+Squirtle goes.
+
+Computer fled the battle!
+
+
+///SIMULATION 2
+
+Pokemon Battle Simulator!!!
+
+You're being attacked by a Pokemon master controlling a Squirtle!
+Battle Begins, Ash you control Pikachu get ready for a fight!
+
+Your Pokemons health is 130
+
+Pika, Pika
+Take an action
+[1]Attack!
+[2]Use Item!
+[3]Flee the fight!
+3
+Ash fled the battle!
+You ran away, cowardly move Ash. GAME OVER!!!
+
+
+///Simulation 3
+
+
+Pokemon Battle Simulator!!!
+
+You're being attacked by a Pokemon master controlling a Squirtle!
+Battle Begins, Ash you control Pikachu get ready for a fight!
+
+Your Pokemons health is 130
+
+Pika, Pika
+Take an action
+[1]Attack!
+[2]Use Item!
+[3]Flee the fight!
+2
+Health Potion used, health increased by 30 to :  160
+ You have 1 Health potions left!
+Squirtle goes.
+
+PP Potion used, Power Points increased to:  26
+PP potions left 2
+Your Pokemons health is 160
+
+Pika, Pika
+Take an action
+[1]Attack!
+[2]Use Item!
+[3]Flee the fight!
+1
+Please select your attack.
+
+[1] Electricute Attack Cost 1 PP
+[2] Shock Attack Cost 2 PP
+[3] Thunderbolt Attack Cost 5 PP
+3
+Super effective attack
+
+Pikachu used Shock it did 60 damage.
+
+You have 9 Power Points left.
+Squirtle has 90 health left.
+
+Squirtle goes.
+
+Computer fled the battle!
